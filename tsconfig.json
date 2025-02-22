@@ -11,6 +11,11 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
-    }
-  }
+    },
+    "outDir": "./dist"
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
 }
