@@ -19,3 +19,5 @@ bun start
 ```
 
 This project was created using `bun init` in bun v1.2.3. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+You can access the project in [https://template-bunreact.vercel.app/](https://template-bunreact.vercel.app/)
